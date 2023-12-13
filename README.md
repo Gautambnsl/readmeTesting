@@ -1,5 +1,3 @@
-Certainly! Here's the modified README file with "edexa.js" instead of "matic.js":
-
 # Edexa SDK
 
 [![GitHub version](https://img.shields.io/github/v/release/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/releases)
