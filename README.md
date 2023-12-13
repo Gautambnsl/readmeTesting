@@ -1,6 +1,5 @@
 Certainly! Here's the modified README file with "edexa.js" instead of "matic.js":
 
-```markdown
 # Edexa SDK
 
 [![GitHub version](https://img.shields.io/github/v/release/USERNAME/REPOSITORY)](https://github.com/USERNAME/REPOSITORY/releases)
@@ -34,7 +33,7 @@ Thank you to all the people who already contributed to `edexa.js`!
 
 ```bash
 npm ci
-```
+
 
 ### How to debug
 
