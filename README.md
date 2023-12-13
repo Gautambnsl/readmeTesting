@@ -92,5 +92,3 @@ npm publish
 
 MIT
 ```
-
-Replace `USERNAME` and `REPOSITORY` with your actual GitHub username and repository name. Additionally, create a `CONTRIBUTING.md` file for contributing guidelines and update the relevant link in the README.
