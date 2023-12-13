@@ -33,6 +33,7 @@ Thank you to all the people who already contributed to `edexa.js`!
 
 ```bash
 npm ci
+```
 
 
 ### How to debug
