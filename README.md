@@ -10,7 +10,7 @@ This repository contains the `edexa.js` client library. `edexa.js` makes it easy
 
 ## Docs
 
-[https://wiki.edexa.technology/docs/tools/edexa-js/get-started](https://wiki.edexa.technology/docs/tools/edexa-js/get-started)
+[https://developer.edexa.network/](https://developer.edexa.network/)
 
 ## Support
 
