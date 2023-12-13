@@ -34,50 +34,6 @@ Thank you to all the people who already contributed to `edexa.js`!
 ```bash
 npm ci
 ```
-
-
-### How to debug
-
-Write your code inside the file `test/debug.js` and run the following code:
-
-```bash
-npm run debug
-```
-
-The above command will build the source code & install the built version into the `test` folder, which will be used by `debug.js`.
-
-### Lint
-
-To check lint errors:
-
-```bash
-npm run lint
-```
-
-To fix most common lint errors (Note that it might not fix all errors, some need manual intervention):
-
-```bash
-npm run lint:fix
-```
-
-### Build code
-
-```bash
-npm run build
-```
-
-### Run test
-
-```bash
-npm run test
-```
-
-### Generate distribution files
-
-```bash
-npm run deploy
-```
-
 ### NPM publish
 
 Before running the publish script, make sure you have updated the version properly.
