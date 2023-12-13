@@ -14,7 +14,7 @@ This repository contains the `edexa.js` client library. `edexa.js` makes it easy
 
 ## Support
 
-Our Discord is the best way to reach us ✨.
+Our [Discord](https://discord.com/invite/TKBQS9tZJY) is the best way to reach us ✨.
 
 ## Contributors
 
