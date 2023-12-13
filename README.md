@@ -7,7 +7,6 @@
 
 This repository contains the `edexa.js` client library. `edexa.js` makes it easy for developers, who may not be deeply familiar with smart contract development, to interact with the various components of Edexa Network.
 
-This library will help developers move assets from the Ethereum chain to the Edexa chain and withdraw from Edexa to Ethereum using fraud proofs.
 
 ## Docs
 
