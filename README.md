@@ -1,7 +1,6 @@
 # Edexa SDK
 
 [![GitHub version](https://img.shields.io/github/v/release/USERNAME/REPOSITORY)](https://github.com/devEdexa/edexa.js/releases)
-[![Build Status](https://github.com/USERNAME/REPOSITORY/actions/workflows/build.yml/badge.svg)](https://github.com/devEdexa/edexa.js/actions/workflows/build.yml)
 [![npm version](https://img.shields.io/npm/v/edexa-sdk)](https://www.npmjs.com/package/edexa-sdk)
 [![GitHub TEST](https://img.shields.io/github/workflow/status/USERNAME/REPOSITORY/TEST?label=GitHub%20TEST)](https://github.com/devEdexa/edexa.js/actions/workflows/test.yml)
 
