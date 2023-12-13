@@ -23,7 +23,7 @@ You are very welcome to contribute, please see contributing guidelines - [Contri
 Thank you to all the people who already contributed to `edexa.js`!
 
 <a href="https://github.com/maticnetwork/matic.js/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=maticnetwork/matic.js" />
+  <img src="https://contrib.rocks/image?repo=devEdexa/edexa.js" />
 </a>
 
 [![Made with contributors-img](https://img.shields.io/badge/Made%20with-contributors--img-green)](https://contributors-img.web.app/)
